@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">A7S212021Proyecto</string>
+    <string name="Titulo">Proyecto</string>
+    <string name="hmatri">Ingresa tu matricula</string>
+    <string name="hnom">Ingresa tu nombre</string>
+    <string name="hcorre">Ingresa tu correo</string>
+    <string name="hprome">Ingresa tu promedio final</string>
+    <string name="btngra">Grabar</string>
+    <string name="dma">Matricula</string>
+    <string name="dnom">Nombre</string>
+    <string name="dcorre">Correo</string>
+    <string name="dpro">Promedio final</string>
+</resources>
